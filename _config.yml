@@ -1,0 +1,6 @@
+# Jekyll がリポジトリ名を H1 として挿入するのを抑えるため page.title と一致させている
+title: 職務経歴書
+tagline: masaya-shigeta
+description: Webエンジニア(バックエンド中心 / フルスタック)。Go・PHPを軸に、要件定義から保守・運用まで一貫して担当する。
+lang: ja
+theme: jekyll-theme-primer
